@@ -4,7 +4,7 @@
 
 This is an implementation of the HAN_model in Tensorflow.
 
-![HAN Structure](https://github.com/manhdo249/Hierarchical-Attention-Networks-for-Document-Classification/blob/main/HAN_structure.jpg)
+![HAN Structure](https://explosion.ai/blog/deep-learning-formula-nlp_example2.svg)
 
 
 
