@@ -8,8 +8,9 @@ This picture explains HAN Structure perfectly.
 
 ![HAN Structure](https://explosion.ai/blog/deep-learning-formula-nlp_example2.svg)
 
-Additional references.
-[1](https://explosion.ai/blog/deep-learning-formula-nlp)
+Additional references
+
+[Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models](https://explosion.ai/blog/deep-learning-formula-nlp)
 
 
 
