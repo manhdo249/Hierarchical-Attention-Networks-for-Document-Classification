@@ -4,6 +4,8 @@
 
 This is an implementation of the HAN_model in Tensorflow.
 
+HAN STructure:
+
 ![HAN Structure](https://explosion.ai/blog/deep-learning-formula-nlp_example2.svg)
 
 
