@@ -4,7 +4,7 @@
 
 This is an implementation of the HAN_model in Tensorflow.
 
-This picture explains HAN Structure perfectly.
+This picture explains HAN_structure perfectly.
 
 ![HAN Structure](https://explosion.ai/blog/deep-learning-formula-nlp_example2.svg)
 
